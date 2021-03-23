@@ -1,0 +1,529 @@
+Entity,Code,Year,Deforestation
+Africa,,1990,4096
+Africa,,2000,4314
+Africa,,2010,4444
+Africa,,2015,4414
+Algeria,DZA,1990,14.8
+Algeria,DZA,2000,14.5
+Algeria,DZA,2010,1.4
+Algeria,DZA,2015,5.4
+Argentina,ARG,1990,213.6
+Argentina,ARG,2000,327.4
+Argentina,ARG,2010,242.4
+Argentina,ARG,2015,134.8
+Aruba,ABW,1990,0
+Aruba,ABW,2000,0
+Aruba,ABW,2010,0
+Aruba,ABW,2015,0
+Asia,,1990,4170
+Asia,,2000,2684
+Asia,,2010,2925
+Asia,,2015,2235
+Australia,AUS,1990,626.2
+Australia,AUS,2000,632.3
+Australia,AUS,2010,416.84
+Austria,AUT,1990,3.45
+Austria,AUT,2000,7.79
+Austria,AUT,2010,5.8
+Austria,AUT,2015,5.81
+Azerbaijan,AZE,2010,81.64
+Azerbaijan,AZE,2015,86.36
+Bahrain,BHR,1990,0.01
+Bahrain,BHR,2000,0.01
+Bahrain,BHR,2010,0
+Bahrain,BHR,2015,0
+Bangladesh,BGD,1990,7.5
+Bangladesh,BGD,2000,3.2
+Bangladesh,BGD,2010,18.19
+Bangladesh,BGD,2015,0
+Belarus,BLR,1990,5.8
+Belarus,BLR,2000,7.2
+Belarus,BLR,2010,4.1
+Belarus,BLR,2015,3.5
+Belgium,BEL,2010,1.81
+Belgium,BEL,2015,1.5
+Belize,BLZ,1990,14.07
+Belize,BLZ,2000,6.79
+Belize,BLZ,2010,11.71
+Belize,BLZ,2015,11.16
+Bhutan,BTN,1990,0
+Bhutan,BTN,2000,0.19
+Bhutan,BTN,2010,0.34
+Bhutan,BTN,2015,0.43
+Bolivia,BOL,1990,270.33
+Bolivia,BOL,2000,200.05
+Bolivia,BOL,2010,190.69
+Bolivia,BOL,2015,242.54
+Brazil,BRA,1990,4254.8
+Brazil,BRA,2000,5129.3
+Brazil,BRA,2010,1867.8
+Brazil,BRA,2015,1695.7
+Bulgaria,BGR,1990,0
+Bulgaria,BGR,2000,0
+Bulgaria,BGR,2010,0
+Bulgaria,BGR,2015,0
+Burundi,BDI,1990,8.25
+Burundi,BDI,2000,0
+Burundi,BDI,2010,0
+Burundi,BDI,2015,0
+Cameroon,CMR,1990,90.55
+Cameroon,CMR,2000,71.7
+Cameroon,CMR,2010,58
+Cameroon,CMR,2015,58
+Canada,CAN,1990,54.42
+Canada,CAN,2000,50.45
+Canada,CAN,2010,41.3
+Canada,CAN,2015,37.52
+Cape Verde,CPV,2000,2.84
+Cape Verde,CPV,2010,1.9
+Cape Verde,CPV,2015,0.82
+Cayman Islands,CYM,1990,0.02
+Cayman Islands,CYM,2000,0.02
+Cayman Islands,CYM,2010,0
+Cayman Islands,CYM,2015,0
+Central African Republic,CAF,1990,30
+Central African Republic,CAF,2000,30
+Central African Republic,CAF,2010,30
+Central African Republic,CAF,2015,30
+Chile,CHL,1990,10.11
+Chile,CHL,2000,14.21
+Chile,CHL,2010,11.27
+Chile,CHL,2015,9.4
+China,CHN,1990,327.54
+China,CHN,2000,312.76
+China,CHN,2010,329.97
+China,CHN,2015,133.2
+Colombia,COL,1990,229.13
+Colombia,COL,2000,214.33
+Colombia,COL,2010,143.17
+Colombia,COL,2015,199.23
+Congo,COG,1990,12
+Congo,COG,2000,12
+Congo,COG,2010,12
+Congo,COG,2015,13.8
+Costa Rica,CRI,1990,9.79
+Costa Rica,CRI,2000,2.65
+Costa Rica,CRI,2010,0
+Costa Rica,CRI,2015,0
+Croatia,HRV,1990,0.04
+Croatia,HRV,2000,0.33
+Croatia,HRV,2010,0.09
+Croatia,HRV,2015,0.05
+Cuba,CUB,1990,0
+Cuba,CUB,2000,0
+Cuba,CUB,2010,0
+Cuba,CUB,2015,0
+Denmark,DNK,1990,0.03
+Denmark,DNK,2000,0.18
+Denmark,DNK,2010,0.26
+Denmark,DNK,2015,0.62
+Djibouti,DJI,1990,0
+Djibouti,DJI,2000,0
+Djibouti,DJI,2010,0
+Djibouti,DJI,2015,0.16
+Dominican Republic,DOM,1990,0.62
+Dominican Republic,DOM,2000,0.25
+Dominican Republic,DOM,2010,18.49
+Ecuador,ECU,1990,129.94
+Ecuador,ECU,2000,105.08
+Ecuador,ECU,2010,96.13
+Ecuador,ECU,2015,87.22
+El Salvador,SLV,1990,4.5
+El Salvador,SLV,2000,4.5
+El Salvador,SLV,2010,4.5
+El Salvador,SLV,2015,4.5
+Equatorial Guinea,GNQ,2000,8.36
+Equatorial Guinea,GNQ,2010,8.36
+Equatorial Guinea,GNQ,2015,8.36
+Estonia,EST,1990,0.19
+Estonia,EST,2000,6.34
+Estonia,EST,2010,11.23
+Estonia,EST,2015,5.01
+Ethiopia,ETH,1990,92
+Ethiopia,ETH,2000,92
+Ethiopia,ETH,2010,92
+Ethiopia,ETH,2015,92
+Europe,,1990,88
+Europe,,2000,92
+Europe,,2010,201
+Europe,,2015,69
+Falkland Islands,FLK,1990,0
+Falkland Islands,FLK,2000,0
+Falkland Islands,FLK,2010,0
+Falkland Islands,FLK,2015,0
+Faroe Islands,,1990,0
+Faroe Islands,,2000,0
+Faroe Islands,,2010,0
+Faroe Islands,,2015,0
+Finland,FIN,1990,12.18
+Finland,FIN,2000,2.09
+Finland,FIN,2010,0.54
+French Guyana,,1990,5.56
+French Guyana,,2000,5.54
+French Guyana,,2010,5.65
+French Guyana,,2015,5.78
+Gabon,GAB,1990,10.24
+Gabon,GAB,2000,14.74
+Gabon,GAB,2010,19.25
+Gabon,GAB,2015,19.25
+Georgia,GEO,1990,0
+Georgia,GEO,2000,0
+Georgia,GEO,2010,0
+Georgia,GEO,2015,0
+Germany,DEU,1990,6.8
+Germany,DEU,2000,5.83
+Germany,DEU,2010,7
+Germany,DEU,2015,7
+Gibraltar,GIB,1990,0
+Gibraltar,GIB,2000,0
+Gibraltar,GIB,2010,0
+Gibraltar,GIB,2015,0
+Greenland,GRL,1990,0
+Greenland,GRL,2000,0
+Greenland,GRL,2010,0
+Greenland,GRL,2015,0
+Guadeloupe,GLP,1990,0.25
+Guadeloupe,GLP,2000,0.18
+Guadeloupe,GLP,2010,0.26
+Guadeloupe,GLP,2015,0.25
+Guatemala,GTM,1990,57.2
+Guatemala,GTM,2000,48.66
+Guatemala,GTM,2010,27.36
+Guatemala,GTM,2015,11.6
+Guinea,GIN,1990,46.7
+Guyana,GUY,1990,3.79
+Guyana,GUY,2000,4.44
+Guyana,GUY,2010,11.69
+Guyana,GUY,2015,9.2
+Honduras,HND,1990,23.3
+Honduras,HND,2000,22.81
+Honduras,HND,2010,24.4
+Honduras,HND,2015,23.19
+Hungary,HUN,1990,0.83
+Hungary,HUN,2000,1.43
+Hungary,HUN,2010,1.55
+Hungary,HUN,2015,3.14
+Iceland,ISL,1990,0
+Iceland,ISL,2000,0
+Iceland,ISL,2010,0
+Iceland,ISL,2015,0
+India,IND,1990,384
+India,IND,2000,629.5
+India,IND,2010,668.4
+India,IND,2015,668.4
+Indonesia,IDN,1990,2526
+Indonesia,IDN,2000,969
+Indonesia,IDN,2015,650
+Iraq,IRQ,1990,0
+Iraq,IRQ,2000,0
+Iraq,IRQ,2010,0
+Iraq,IRQ,2015,0
+Ireland,IRL,1990,0.62
+Ireland,IRL,2000,0.62
+Ireland,IRL,2010,0.62
+Ireland,IRL,2015,0.62
+Isle of Man,IMN,1990,0
+Isle of Man,IMN,2000,0
+Isle of Man,IMN,2010,0
+Isle of Man,IMN,2015,0
+Italy,ITA,2010,3.69
+Jamaica,JAM,1990,0.89
+Jamaica,JAM,2000,0.68
+Jamaica,JAM,2010,0.62
+Jamaica,JAM,2015,0.54
+Jersey,JEY,1990,0
+Jersey,JEY,2000,0
+Jersey,JEY,2010,0
+Jersey,JEY,2015,0
+Kuwait,KWT,1990,0
+Kuwait,KWT,2000,0
+Kuwait,KWT,2010,0
+Kuwait,KWT,2015,0
+Kyrgyzstan,KGZ,1990,0
+Kyrgyzstan,KGZ,2000,0
+Kyrgyzstan,KGZ,2010,0
+Kyrgyzstan,KGZ,2015,0
+Latvia,LVA,1990,0
+Latvia,LVA,2000,0.4
+Latvia,LVA,2010,0.31
+Latvia,LVA,2015,0.36
+Liberia,LBR,1990,30.26
+Liberia,LBR,2000,30.26
+Liberia,LBR,2010,30.26
+Liberia,LBR,2015,30.26
+Liechtenstein,LIE,1990,0.21
+Liechtenstein,LIE,2000,0.21
+Liechtenstein,LIE,2010,0.21
+Liechtenstein,LIE,2015,0.21
+Lithuania,LTU,2000,0.14
+Lithuania,LTU,2010,0.14
+Lithuania,LTU,2015,0.14
+Madagascar,MDG,1990,70.5
+Malawi,MWI,1990,42
+Malawi,MWI,2000,42
+Malawi,MWI,2010,42
+Malawi,MWI,2015,42
+Maldives,MDV,1990,0
+Maldives,MDV,2000,0
+Maldives,MDV,2010,0
+Maldives,MDV,2015,0
+Mali,MLI,1990,84
+Mali,MLI,2000,109
+Mali,MLI,2010,79
+Mali,MLI,2015,0
+Martinique,MTQ,1990,0.08
+Martinique,MTQ,2000,0.14
+Martinique,MTQ,2010,0.16
+Martinique,MTQ,2015,0.16
+Mauritania,MRT,1990,37.72
+Mauritania,MRT,2000,40.44
+Mauritania,MRT,2010,42.79
+Mauritania,MRT,2015,45.38
+Mauritius,MUS,1990,0.01
+Mauritius,MUS,2000,0.36
+Mauritius,MUS,2010,0.1
+Mauritius,MUS,2015,0.12
+Mayotte,MYT,1990,0.37
+Mayotte,MYT,2000,0.21
+Mayotte,MYT,2010,0.06
+Mayotte,MYT,2015,0.06
+Mexico,MEX,1990,685.81
+Mexico,MEX,2000,424.85
+Mexico,MEX,2010,211.61
+Mexico,MEX,2015,165.82
+Moldova,MDA,1990,0.88
+Moldova,MDA,2000,1.8
+Moldova,MDA,2010,0.93
+Moldova,MDA,2015,0.34
+Monaco,MCO,1990,0
+Monaco,MCO,2000,0
+Monaco,MCO,2010,0
+Monaco,MCO,2015,0
+Mongolia,MNG,1990,9.06
+Mongolia,MNG,2000,8.25
+Mongolia,MNG,2010,1.52
+Mongolia,MNG,2015,1.52
+Montenegro,MNE,2010,28.2
+Montenegro,MNE,2015,12
+Morocco,MAR,1990,0.78
+Morocco,MAR,2000,1.08
+Morocco,MAR,2010,8.72
+Morocco,MAR,2015,0
+Mozambique,MOZ,1990,219
+Mozambique,MOZ,2000,267.03
+Mozambique,MOZ,2010,267.03
+Mozambique,MOZ,2015,267.03
+Myanmar,MMR,1990,435
+Myanmar,MMR,2000,370.15
+Myanmar,MMR,2010,309.87
+Myanmar,MMR,2015,293.92
+Nauru,NRU,1990,0
+Nauru,NRU,2000,0
+Nauru,NRU,2010,0
+Nauru,NRU,2015,0
+Nepal,NPL,1990,0.12
+Nepal,NPL,2000,1.87
+Nepal,NPL,2010,0
+Nepal,NPL,2015,0
+Netherlands,NLD,1990,1.14
+Netherlands,NLD,2000,2.6
+Netherlands,NLD,2010,4.52
+Netherlands,NLD,2015,2.19
+New Zealand,NZL,1990,15.48
+New Zealand,NZL,2000,18.03
+New Zealand,NZL,2010,8.61
+New Zealand,NZL,2015,6.58
+Nicaragua,NIC,1990,100.2
+Nicaragua,NIC,2000,122.49
+Nicaragua,NIC,2010,61.15
+Nicaragua,NIC,2015,105.03
+Niger,NER,1990,64.19
+Niger,NER,2000,14.92
+Niger,NER,2010,14.92
+Niger,NER,2015,14.92
+Nigeria,NGA,1990,163.31
+Nigeria,NGA,2000,163.31
+Nigeria,NGA,2010,163.31
+Nigeria,NGA,2015,163.31
+North Korea,PRK,1990,47.7
+North Korea,PRK,2000,23.19
+North Korea,PRK,2010,23.19
+North Korea,PRK,2015,23.19
+North and Central America,,1990,972
+North and Central America,,2000,699
+North and Central America,,2010,418
+North and Central America,,2015,436
+Norway,NOR,1990,4.92
+Norway,NOR,2000,6.5
+Norway,NOR,2010,5.98
+Norway,NOR,2015,5.82
+Oceania,,1990,655
+Oceania,,2000,662
+Oceania,,2010,458
+Oceania,,2015,42
+Panama,PAN,1990,18.95
+Panama,PAN,2000,13.73
+Panama,PAN,2010,12.52
+Panama,PAN,2015,12.49
+Papua New Guinea,PNG,1990,12.17
+Papua New Guinea,PNG,2000,9.91
+Papua New Guinea,PNG,2010,30.9
+Papua New Guinea,PNG,2015,33.53
+Paraguay,PRY,1990,255.42
+Paraguay,PRY,2000,342.14
+Paraguay,PRY,2010,414.25
+Paraguay,PRY,2015,279.34
+Peru,PER,1990,160.28
+Peru,PER,2000,150.28
+Peru,PER,2010,188.5
+Peru,PER,2015,179.09
+Poland,POL,1990,0.51
+Poland,POL,2000,0.58
+Poland,POL,2010,0.62
+Poland,POL,2015,0.77
+Portugal,PRT,2010,39.6
+Qatar,QAT,1990,0
+Qatar,QAT,2000,0
+Qatar,QAT,2010,0
+Qatar,QAT,2015,0
+Reunion,REU,1990,0
+Reunion,REU,2000,0
+Reunion,REU,2010,0
+Reunion,REU,2015,0
+Romania,ROU,2000,0.18
+Romania,ROU,2010,0.11
+Romania,ROU,2015,0.02
+Russia,RUS,1990,0
+Russia,RUS,2000,0
+Russia,RUS,2010,41.03
+Russia,RUS,2015,0
+San Marino,SMR,1990,0
+San Marino,SMR,2000,0
+San Marino,SMR,2010,0
+San Marino,SMR,2015,0
+Sao Tome and Principe,STP,1990,0.03
+Sao Tome and Principe,STP,2000,0.03
+Sao Tome and Principe,STP,2010,0.62
+Sao Tome and Principe,STP,2015,0.62
+Senegal,SEN,2010,51
+Senegal,SEN,2015,51
+Serbia,SRB,1990,0
+Serbia,SRB,2000,0
+Serbia,SRB,2010,0.09
+Serbia,SRB,2015,0.04
+Singapore,SGP,1990,0.28
+Singapore,SGP,2000,0.14
+Singapore,SGP,2010,0.3
+Singapore,SGP,2015,0.24
+Slovenia,SVN,1990,0
+Slovenia,SVN,2000,0.38
+Slovenia,SVN,2010,0.3
+Slovenia,SVN,2015,2.03
+Somalia,SOM,1990,76.75
+Somalia,SOM,2000,76.75
+Somalia,SOM,2010,76.75
+Somalia,SOM,2015,76.75
+South Africa,ZAF,1990,399
+South Africa,ZAF,2000,399
+South Africa,ZAF,2010,199
+South Africa,ZAF,2015,199
+South America,,1990,5837
+South America,,2000,6667
+South America,,2010,3354
+South America,,2015,2953
+South Korea,KOR,1990,7.5
+South Korea,KOR,2000,8.9
+South Korea,KOR,2010,10
+South Korea,KOR,2015,10
+Spain,ESP,2000,5.7
+Spain,ESP,2010,1.98
+Spain,ESP,2015,3.74
+Sudan,SDN,1990,403.73
+Sudan,SDN,2000,381.7
+Sudan,SDN,2010,272.54
+Sudan,SDN,2015,264
+Suriname,SUR,1990,3.68
+Suriname,SUR,2000,4.11
+Suriname,SUR,2010,9.86
+Suriname,SUR,2015,11.65
+Svalbard and Jan Mayen Islands,,1990,0
+Svalbard and Jan Mayen Islands,,2000,0
+Svalbard and Jan Mayen Islands,,2010,0
+Svalbard and Jan Mayen Islands,,2015,0
+Sweden,SWE,1990,11.49
+Sweden,SWE,2000,20.82
+Sweden,SWE,2010,38.15
+Sweden,SWE,2015,13.05
+Switzerland,CHE,1990,1.16
+Switzerland,CHE,2000,1.05
+Switzerland,CHE,2010,1.34
+Switzerland,CHE,2015,1.34
+Syria,SYR,1990,77.25
+Syria,SYR,2000,46.18
+Syria,SYR,2010,11.94
+Tanzania,TZA,1990,400
+Tanzania,TZA,2000,400
+Tanzania,TZA,2010,372
+Tanzania,TZA,2015,474
+Thailand,THA,1990,63
+Thailand,THA,2000,18
+Thailand,THA,2010,94.4
+Thailand,THA,2015,37.6
+Togo,TGO,1990,10.32
+Togo,TGO,2000,4.46
+Togo,TGO,2010,4.96
+Togo,TGO,2015,4.96
+Tokelau,TKL,1990,0
+Tokelau,TKL,2000,0
+Tokelau,TKL,2010,0
+Tokelau,TKL,2015,0
+Tunisia,TUN,1990,4.32
+Tunisia,TUN,2000,4.34
+Tunisia,TUN,2010,1.42
+Tunisia,TUN,2015,0.57
+Turkey,TUR,1990,2.22
+Turkey,TUR,2000,1.38
+Turkey,TUR,2010,1.03
+Turkey,TUR,2015,1.17
+Uganda,UGA,1990,51.09
+Uganda,UGA,2000,51.09
+Uganda,UGA,2010,51.09
+Uganda,UGA,2015,51.09
+Ukraine,UKR,1990,0.5
+Ukraine,UKR,2000,1.03
+Ukraine,UKR,2010,0.4
+Ukraine,UKR,2015,0.1
+United Kingdom,GBR,2000,0.2
+United Kingdom,GBR,2010,0.5
+United States,USA,1990,0
+United States,USA,2000,0
+United States,USA,2010,0
+Uruguay,URY,2000,0.66
+Uruguay,URY,2010,1.83
+Uzbekistan,UZB,1990,0.79
+Uzbekistan,UZB,2000,5
+Uzbekistan,UZB,2010,1.04
+Uzbekistan,UZB,2015,14.15
+Vatican,VAT,1990,0
+Vatican,VAT,2000,0
+Vatican,VAT,2010,0
+Vatican,VAT,2015,0
+Venezuela,VEN,1990,303.85
+Venezuela,VEN,2000,183.99
+Venezuela,VEN,2010,182.27
+Venezuela,VEN,2015,108.29
+Vietnam,VNM,1990,0
+Vietnam,VNM,2000,0
+Vietnam,VNM,2010,25.86
+Vietnam,VNM,2015,1.59
+World,OWID_WRL,1990,15818
+World,OWID_WRL,2000,15117
+World,OWID_WRL,2010,11801
+World,OWID_WRL,2015,10150
+Zambia,ZMB,2000,36.25
+Zambia,ZMB,2010,189.68
+Zambia,ZMB,2015,189.71
+Zimbabwe,ZWE,1990,46.07
+Zimbabwe,ZWE,2000,46.07
+Zimbabwe,ZWE,2010,46.07
+Zimbabwe,ZWE,2015,46.07
